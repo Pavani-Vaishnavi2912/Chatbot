@@ -1,0 +1,12 @@
+User: hi
+Bot: Hello there! How can I help you?
+
+User: how are things
+Bot: Things are good! How can I help you?
+
+User: how was your day
+Bot: Good day! How can I help you?
+
+User: what is 2+2
+Bot: 2+2 is 4.
+
